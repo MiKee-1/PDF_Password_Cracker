@@ -90,11 +90,3 @@ This tool is intended for legitimate purposes only, such as:
 - Digital forensics investigations
 
 Users are responsible for ensuring they have proper authorization before attempting to crack any PDF files.
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve this tool.
-
-## License
-
-[Add your preferred license here]
